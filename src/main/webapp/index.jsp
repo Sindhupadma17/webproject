@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World! sindhu</h2>
-<h3> changes applied on dec 5th </h3>
+<h2>changes applied on dec 5th</h2>
 </body>
 </html>
